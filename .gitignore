@@ -57,3 +57,4 @@ airflow-webserver.pid
 # Misc
 *.tmp
 *.bak
+dbt_internal_packages/

@@ -1,7 +1,7 @@
 {{
     config(
         materialized='table',
-        alias = 'tblweatherbike_correlation'
+        alias = 'tblweatherbikes_correlation'
     )
 }}
 
